@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|c:\\users\\elikg\\downloads\\projerestoran (2)\\projerestoran\\projeforms\\projeforms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|c:\\users\\elikg\\downloads\\projerestoran (2)\\projerestoran\\projeforms\\projeforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|c:\\users\\elikg\\downloads\\projerestoran (2)\\projerestoran\\projeforms\\projeforms\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|c:\\users\\elikg\\downloads\\projerestoran (2)\\projerestoran\\projeforms\\projeforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\calisanform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:calisanform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\m\u00FCsteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:m\u00FCsteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|c:\\users\\elikg\\downloads\\projerestoran (2)\\projerestoran\\projeforms\\projeforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\calisanform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:calisanform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmurunekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmurunekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmurunduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmurunduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmsiparisrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmsiparisrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmaktifsiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmaktifsiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmaktifsiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmaktifsiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmcalisanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmcalisanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmgunlukozet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmgunlukozet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmgunlukozet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmgunlukozet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\y\u00F6neticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:y\u00F6neticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmkategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmkategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\accountmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:accountmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\addressinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:addressinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\personalinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:personalinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\ordertrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:ordertrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\addressinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:addressinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\ordertrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:ordertrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\personalinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:personalinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmsiparisrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmsiparisrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\y\u00F6neticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:y\u00F6neticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmcalisanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmcalisanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmkategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmkategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\frmurunislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:frmurunislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\uyeolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2A2A1F-1491-4045-93A9-F9950C9768FA}|projeforms.csproj|solutionrelative:uyeolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "PaymentForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\PaymentForm.cs",
+              "RelativeToolTip": "PaymentForm.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:48:09.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:05:35.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\DbHelper.cs",
+              "RelativeDocumentMoniker": "DbHelper.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\DbHelper.cs",
+              "RelativeToolTip": "DbHelper.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:22:45.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalisanForm1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\CalisanForm1.cs",
+              "RelativeDocumentMoniker": "CalisanForm1.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\CalisanForm1.cs [Design]",
+              "RelativeToolTip": "CalisanForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:32:51.983Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-22T13:21:58.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "PaymentForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\PaymentForm.cs [Design]",
+              "RelativeToolTip": "PaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.505Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:19:44.4Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalisanForm1.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\CalisanForm1.cs",
+              "RelativeDocumentMoniker": "CalisanForm1.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\CalisanForm1.cs",
+              "RelativeToolTip": "CalisanForm1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:40:22.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "M\u00FCsteriForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\M\u00FCsteriForm.cs",
+              "RelativeDocumentMoniker": "M\u00FCsteriForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\M\u00FCsteriForm.cs [Design]",
+              "RelativeToolTip": "M\u00FCsteriForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.464Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\CartForm.cs",
+              "RelativeDocumentMoniker": "CartForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\CartForm.cs [Design]",
+              "RelativeToolTip": "CartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.51Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmUrunEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmUrunEkle.cs",
+              "RelativeDocumentMoniker": "FrmUrunEkle.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmUrunEkle.cs [Design]",
+              "RelativeToolTip": "FrmUrunEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:18:32.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmUrunDuzenle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmUrunDuzenle.cs",
+              "RelativeDocumentMoniker": "FrmUrunDuzenle.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmUrunDuzenle.cs [Design]",
+              "RelativeToolTip": "FrmUrunDuzenle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:18:31.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmAktifSiparisler.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmAktifSiparisler.cs",
+              "RelativeDocumentMoniker": "FrmAktifSiparisler.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmAktifSiparisler.cs",
+              "RelativeToolTip": "FrmAktifSiparisler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:17:27.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmAktifSiparisler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmAktifSiparisler.cs",
+              "RelativeDocumentMoniker": "FrmAktifSiparisler.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmAktifSiparisler.cs [Design]",
+              "RelativeToolTip": "FrmAktifSiparisler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:17:26.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmSiparisRapor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmSiparisRapor.cs",
+              "RelativeDocumentMoniker": "FrmSiparisRapor.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmSiparisRapor.cs [Design]",
+              "RelativeToolTip": "FrmSiparisRapor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmGunlukOzet.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmGunlukOzet.cs",
+              "RelativeDocumentMoniker": "FrmGunlukOzet.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmGunlukOzet.cs",
+              "RelativeToolTip": "FrmGunlukOzet.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAADwv7gAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:26:27.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Y\u00F6neticiForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\Y\u00F6neticiForm.cs",
+              "RelativeDocumentMoniker": "Y\u00F6neticiForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\Y\u00F6neticiForm.cs [Design]",
+              "RelativeToolTip": "Y\u00F6neticiForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmCalisanlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmCalisanlar.cs",
+              "RelativeDocumentMoniker": "FrmCalisanlar.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmCalisanlar.cs [Design]",
+              "RelativeToolTip": "FrmCalisanlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmKategoriler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmKategoriler.cs",
+              "RelativeDocumentMoniker": "FrmKategoriler.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmKategoriler.cs [Design]",
+              "RelativeToolTip": "FrmKategoriler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmGunlukOzet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmGunlukOzet.cs",
+              "RelativeDocumentMoniker": "FrmGunlukOzet.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmGunlukOzet.cs [Design]",
+              "RelativeToolTip": "FrmGunlukOzet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:16:44.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PersonalInfoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\PersonalInfoForm.cs",
+              "RelativeDocumentMoniker": "PersonalInfoForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\PersonalInfoForm.cs [Design]",
+              "RelativeToolTip": "PersonalInfoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\AccountManagementForm.cs",
+              "RelativeDocumentMoniker": "AccountManagementForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\AccountManagementForm.cs",
+              "RelativeToolTip": "AccountManagementForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddressInfoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\AddressInfoForm.cs",
+              "RelativeDocumentMoniker": "AddressInfoForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\AddressInfoForm.cs [Design]",
+              "RelativeToolTip": "AddressInfoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderTrackingForm.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\OrderTrackingForm.cs",
+              "RelativeDocumentMoniker": "OrderTrackingForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\OrderTrackingForm.cs",
+              "RelativeToolTip": "OrderTrackingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddressInfoForm.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\AddressInfoForm.cs",
+              "RelativeDocumentMoniker": "AddressInfoForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\AddressInfoForm.cs",
+              "RelativeToolTip": "AddressInfoForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderTrackingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\OrderTrackingForm.cs",
+              "RelativeDocumentMoniker": "OrderTrackingForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\OrderTrackingForm.cs [Design]",
+              "RelativeToolTip": "OrderTrackingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PersonalInfoForm.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\PersonalInfoForm.cs",
+              "RelativeDocumentMoniker": "PersonalInfoForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\PersonalInfoForm.cs",
+              "RelativeToolTip": "PersonalInfoForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmSiparisRapor.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmSiparisRapor.cs",
+              "RelativeDocumentMoniker": "FrmSiparisRapor.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmSiparisRapor.cs",
+              "RelativeToolTip": "FrmSiparisRapor.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAQwLQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Y\u00F6neticiForm.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\Y\u00F6neticiForm.cs",
+              "RelativeDocumentMoniker": "Y\u00F6neticiForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\Y\u00F6neticiForm.cs",
+              "RelativeToolTip": "Y\u00F6neticiForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAywF8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmCalisanlar.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmCalisanlar.cs",
+              "RelativeDocumentMoniker": "FrmCalisanlar.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmCalisanlar.cs",
+              "RelativeToolTip": "FrmCalisanlar.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAA1wOwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmKategoriler.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmKategoriler.cs",
+              "RelativeDocumentMoniker": "FrmKategoriler.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmKategoriler.cs",
+              "RelativeToolTip": "FrmKategoriler.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmUrunIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmUrunIslemleri.cs",
+              "RelativeDocumentMoniker": "FrmUrunIslemleri.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\FrmUrunIslemleri.cs",
+              "RelativeToolTip": "FrmUrunIslemleri.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAswGwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "uyeolForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\uyeolForm.cs",
+              "RelativeDocumentMoniker": "uyeolForm.cs",
+              "ToolTip": "C:\\Users\\elikg\\Downloads\\PROJERESTORAN (2)\\PROJERESTORAN\\projeforms\\projeforms\\uyeolForm.cs [Design]",
+              "RelativeToolTip": "uyeolForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:06:39.553Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

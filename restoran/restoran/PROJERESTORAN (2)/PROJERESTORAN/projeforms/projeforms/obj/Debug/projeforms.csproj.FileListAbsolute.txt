@@ -1,0 +1,134 @@
+C:\Users\LENOVO\Desktop\görsel programlama\projeforms\projeforms\obj\Debug\projeforms.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\görsel programlama\projeforms\projeforms\obj\Debug\projeforms.Form1.resources
+C:\Users\LENOVO\Desktop\görsel programlama\projeforms\projeforms\obj\Debug\projeforms.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\görsel programlama\projeforms\projeforms\obj\Debug\projeforms.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\görsel programlama\projeforms\projeforms\obj\Debug\projeforms.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\görsel programlama\projeforms\projeforms\bin\Debug\projeforms.exe.config
+C:\Users\LENOVO\Desktop\görsel programlama\projeforms\projeforms\bin\Debug\projeforms.exe
+C:\Users\LENOVO\Desktop\görsel programlama\projeforms\projeforms\bin\Debug\projeforms.pdb
+C:\Users\LENOVO\Desktop\görsel programlama\projeforms\projeforms\obj\Debug\projeforms.exe
+C:\Users\LENOVO\Desktop\görsel programlama\projeforms\projeforms\obj\Debug\projeforms.pdb
+C:\Users\LENOVO\Downloads\projeweb\projeweb\projeforms\projeforms\bin\Debug\projeforms.exe.config
+C:\Users\LENOVO\Downloads\projeweb\projeweb\projeforms\projeforms\bin\Debug\projeforms.exe
+C:\Users\LENOVO\Downloads\projeweb\projeweb\projeforms\projeforms\bin\Debug\projeforms.pdb
+C:\Users\LENOVO\Downloads\projeweb\projeweb\projeforms\projeforms\obj\Debug\projeforms.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\projeweb\projeweb\projeforms\projeforms\obj\Debug\projeforms.Form1.resources
+C:\Users\LENOVO\Downloads\projeweb\projeweb\projeforms\projeforms\obj\Debug\projeforms.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\projeweb\projeweb\projeforms\projeforms\obj\Debug\projeforms.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\projeweb\projeweb\projeforms\projeforms\obj\Debug\projeforms.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\projeweb\projeweb\projeforms\projeforms\obj\Debug\projeforms.exe
+C:\Users\LENOVO\Downloads\projeweb\projeweb\projeforms\projeforms\obj\Debug\projeforms.pdb
+C:\Users\LENOVO\Desktop\projeweb\projeforms\projeforms\obj\Debug\projeforms.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\projeweb\projeforms\projeforms\obj\Debug\projeforms.Form1.resources
+C:\Users\LENOVO\Desktop\projeweb\projeforms\projeforms\obj\Debug\projeforms.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\projeweb\projeforms\projeforms\obj\Debug\projeforms.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\projeweb\projeforms\projeforms\obj\Debug\projeforms.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\projeweb\projeforms\projeforms\obj\Debug\projeforms.exe
+C:\Users\LENOVO\Desktop\projeweb\projeforms\projeforms\obj\Debug\projeforms.pdb
+C:\Users\LENOVO\Desktop\projeweb\projeforms\projeforms\bin\Debug\projeforms.exe.config
+C:\Users\LENOVO\Desktop\projeweb\projeforms\projeforms\bin\Debug\projeforms.exe
+C:\Users\LENOVO\Desktop\projeweb\projeforms\projeforms\bin\Debug\projeforms.pdb
+C:\Users\elikg\Downloads\projeweb (1)\projeweb\projeforms\projeforms\bin\Debug\projeforms.exe.config
+C:\Users\elikg\Downloads\projeweb (1)\projeweb\projeforms\projeforms\bin\Debug\projeforms.exe
+C:\Users\elikg\Downloads\projeweb (1)\projeweb\projeforms\projeforms\bin\Debug\projeforms.pdb
+C:\Users\elikg\Downloads\projeweb (1)\projeweb\projeforms\projeforms\obj\Debug\projeforms.csproj.AssemblyReference.cache
+C:\Users\elikg\Downloads\projeweb (1)\projeweb\projeforms\projeforms\obj\Debug\projeforms.Form1.resources
+C:\Users\elikg\Downloads\projeweb (1)\projeweb\projeforms\projeforms\obj\Debug\projeforms.Properties.Resources.resources
+C:\Users\elikg\Downloads\projeweb (1)\projeweb\projeforms\projeforms\obj\Debug\projeforms.csproj.GenerateResource.cache
+C:\Users\elikg\Downloads\projeweb (1)\projeweb\projeforms\projeforms\obj\Debug\projeforms.csproj.CoreCompileInputs.cache
+C:\Users\elikg\Downloads\projeweb (1)\projeweb\projeforms\projeforms\obj\Debug\projeforms.exe
+C:\Users\elikg\Downloads\projeweb (1)\projeweb\projeforms\projeforms\obj\Debug\projeforms.pdb
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\bin\Debug\projeforms.exe.config
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\bin\Debug\projeforms.exe
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\bin\Debug\projeforms.pdb
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\obj\Debug\projeforms.csproj.AssemblyReference.cache
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\obj\Debug\projeforms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\obj\Debug\projeforms.Form1.resources
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\obj\Debug\projeforms.FrmUrunIslemleri.resources
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\obj\Debug\projeforms.Properties.Resources.resources
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\obj\Debug\projeforms.YöneticiForm.resources
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\obj\Debug\projeforms.csproj.GenerateResource.cache
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\obj\Debug\projeforms.csproj.CoreCompileInputs.cache
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\obj\Debug\projeforms.exe
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\obj\Debug\projeforms.pdb
+C:\Users\Merve\Downloads\d3451f8a-2f60-4d95-90db-d06dd6524839\projeforms\projeforms\obj\Debug\projeforms.FrmUrunEkle.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\bin\Debug\projeforms.exe.config
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\bin\Debug\projeforms.exe
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\bin\Debug\projeforms.pdb
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.csproj.AssemblyReference.cache
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.Form1.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmUrunEkle.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmUrunIslemleri.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.Properties.Resources.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.YöneticiForm.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.csproj.GenerateResource.cache
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.csproj.CoreCompileInputs.cache
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.exe
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.pdb
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmUrunDuzenle.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmKategoriler.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmCalisanlar.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmSiparisRapor.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.MüsteriForm.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.CartForm.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.PaymentForm.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.AddressInfoForm.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.OrderTrackingForm.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.PersonalInfoForm.resources
+C:\Users\Merve\OneDrive\Masaüstü\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.AccountManagementForm.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\bin\Debug\projeforms.exe.config
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\bin\Debug\projeforms.exe
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\bin\Debug\projeforms.pdb
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.csproj.AssemblyReference.cache
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.AccountManagementForm.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.AddressInfoForm.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.CartForm.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.Form1.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmCalisanlar.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmKategoriler.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmSiparisRapor.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmUrunDuzenle.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmUrunEkle.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmUrunIslemleri.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.MüsteriForm.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.OrderTrackingForm.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.PaymentForm.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.PersonalInfoForm.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.Properties.Resources.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.YöneticiForm.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.csproj.GenerateResource.cache
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.csproj.CoreCompileInputs.cache
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.exe
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.pdb
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmAktifSiparisler.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmGunlukOzet.resources
+C:\Users\elikg\Downloads\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.CalisanForm1.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\bin\Debug\projeforms.exe.config
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\bin\Debug\projeforms.exe
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\bin\Debug\projeforms.pdb
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.csproj.AssemblyReference.cache
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.AccountManagementForm.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.AddressInfoForm.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.CalisanForm1.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.CartForm.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.Form1.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmAktifSiparisler.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmCalisanlar.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmGunlukOzet.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmKategoriler.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmSiparisRapor.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmUrunDuzenle.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmUrunEkle.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.FrmUrunIslemleri.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.MüsteriForm.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.OrderTrackingForm.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.PaymentForm.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.PersonalInfoForm.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.Properties.Resources.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.YöneticiForm.resources
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.csproj.GenerateResource.cache
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.csproj.CoreCompileInputs.cache
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.exe
+C:\Users\Merve\Downloads\restoran\PROJERESTORAN (2)\PROJERESTORAN\projeforms\projeforms\obj\Debug\projeforms.pdb
